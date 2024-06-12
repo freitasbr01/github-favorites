@@ -1,7 +1,7 @@
 <h2 align="center">Github Favorites</h2>
 
 <h1 align="center">
-    <img width="600px" alt="github-favorites" title="#github-favorites" src="" />
+    <img width="600px" alt="github-favorites" title="#github-favorites" src="https://github.com/freitasbr01/github-favorites/blob/main/assets/github.png" />
 </h1>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 Nesse projeto foi desenvolvido uma aplicação web interativa que se integra à API do GitHub. Esta aplicação permite aos usuários favoritar outros usuários do GitHub que eles mais apreciam. Uma vez favoritado, a aplicação fornece uma visão detalhada das informações do usuário favorito.
 
-Link de acesso - <a href="">Github Favorites</a>
+Link de acesso - <a href="https://github-favorites01.netlify.app/">Github Favorites</a>
 
 Projeto desenvolvido durante o Curso Explorer da **Rocketseat**.
 
